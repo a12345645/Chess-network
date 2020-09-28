@@ -1,0 +1,44 @@
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\bin\Debug\chessServer.exe.config
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\bin\Debug\chessServer.exe
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\bin\Debug\chessServer.pdb
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.csprojAssemblyReference.cache
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.Form1.resources
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.Properties.Resources.resources
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.csproj.GenerateResource.cache
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.csproj.CoreCompileInputs.cache
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.exe
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.pdb
+C:\Users\locht\Desktop\ALL\chessServer\chessServer\chessServer\obj\Debug\chessServer.Form2.resources
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\bin\Debug\chessServer.exe.config
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\bin\Debug\chessServer.exe
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\bin\Debug\chessServer.pdb
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.csprojAssemblyReference.cache
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.Form1.resources
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.Form2.resources
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.Properties.Resources.resources
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.csproj.GenerateResource.cache
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.csproj.CoreCompileInputs.cache
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.exe
+C:\Users\locht\Desktop\ALL\chessServer\chessServer - 可註冊\chessServer\obj\Debug\chessServer.pdb
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\bin\Debug\chessServer.exe.config
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\bin\Debug\chessServer.exe
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\bin\Debug\chessServer.pdb
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.Form1.resources
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.Form2.resources
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.Properties.Resources.resources
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.exe
+C:\Users\user\Desktop\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.pdb
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\bin\Debug\chessServer.exe.config
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\bin\Debug\chessServer.exe
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\bin\Debug\chessServer.pdb
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.csprojAssemblyReference.cache
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.Form1.resources
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.Form2.resources
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.Properties.Resources.resources
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.csproj.GenerateResource.cache
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.exe
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.pdb
+D:\西洋棋程式\西洋棋-專題\chessServer -\chessServer\obj\Debug\chessServer.csproj.CoreCompileInputs.cache
